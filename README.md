@@ -1,4 +1,4 @@
-# Strona-sklepu-ForzaCars
+# Site of the ForzaCars Rent a Car
 
-Poniżej link do strony
+There is a link to the site:
 www.forzacars.pl
